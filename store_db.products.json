@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e568c"
+  },
+  "productName": "Mechanical Keyboard AKKO 5108B Plus クロミ",
+  "price": 2890000,
+  "quantity": 29,
+  "ratingPoint": 50,
+  "discount": 86,
+  "special": 67,
+  "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "soldQuantity": 48,
+  "image": "pr8.jpg",
+  "createdAt": {
+    "$date": "2023-11-09T11:51:48.921Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T11:51:48.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e568d"
+  },
+  "productName": "Wireless Gaming Mouse Logitech G502 X Plus",
+  "price": 3190000,
+  "quantity": 343,
+  "ratingPoint": 312,
+  "discount": 7.5,
+  "special": 5,
+  "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016 dfgdf",
+  "soldQuantity": 11,
+  "image": "pr6.webp",
+  "createdAt": {
+    "$date": "2023-11-09T18:16:59.981Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T10:36:13.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e568f"
+  },
+  "productName": "Monitor Arm Humanmotion T6 Pro Single",
+  "price": 890000,
+  "quantity": 87,
+  "ratingPoint": 9,
+  "discount": 70,
+  "special": 68,
+  "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "soldQuantity": 96,
+  "image": "pr3.webp",
+  "createdAt": {
+    "$date": "2023-11-10T02:22:30.636Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T02:22:30.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5690"
+  },
+  "productName": "Wireless Gaming Headphone Logitech Lightspeed G435",
+  "price": 1290000,
+  "quantity": 49,
+  "ratingPoint": 32,
+  "discount": 97,
+  "special": 23,
+  "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "soldQuantity": 88,
+  "image": "pr4.jpg",
+  "createdAt": {
+    "$date": "2023-11-09T15:44:04.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T15:44:04.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5691"
+  },
+  "productName": "Mechanical Keyboard AKKO 5087B World Tour London",
+  "price": 2590000,
+  "quantity": 24,
+  "ratingPoint": 14,
+  "discount": 39,
+  "special": 18,
+  "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "soldQuantity": 13,
+  "image": "pr1.jpeg",
+  "createdAt": {
+    "$date": "2023-11-09T13:04:07.325Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T13:04:07.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5692"
+  },
+  "productName": "Wireless Gaming Mouse Razer Basilisk V3 Hyperspeed",
+  "price": 3450000,
+  "quantity": 21,
+  "ratingPoint": 85,
+  "discount": 19,
+  "special": 46,
+  "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "soldQuantity": 98,
+  "image": "pr5.jpg",
+  "createdAt": {
+    "$date": "2023-11-09T20:18:32.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T20:18:32.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5693"
+  },
+  "productName": "Monitor Arm Humanmotion T9 Pro II RGB",
+  "price": 2090000,
+  "quantity": 61,
+  "ratingPoint": 30,
+  "discount": 19,
+  "special": 76,
+  "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "soldQuantity": 16,
+  "image": "pr7.webp",
+  "createdAt": {
+    "$date": "2023-11-09T09:07:31.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T09:07:31.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5694"
+  },
+  "productName": "Switch Akko V3 Cream Blue Pro (kit 45 switchs)",
+  "price": 260000,
+  "quantity": 16,
+  "ratingPoint": 21,
+  "discount": 86,
+  "special": 92,
+  "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "soldQuantity": 74,
+  "image": "pr2.webp",
+  "createdAt": {
+    "$date": "2023-11-09T12:35:02.099Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T12:35:02.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5695"
+  },
+  "productName": "Mechanical Keyboard Monsgeek M1W",
+  "price": 1790000,
+  "quantity": 29,
+  "ratingPoint": 22,
+  "discount": 20,
+  "special": 82,
+  "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "soldQuantity": 95,
+  "image": "pr9.webp",
+  "createdAt": {
+    "$date": "2023-11-09T13:09:35.824Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T13:09:35.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5696"
+  },
+  "productName": "Pegboard HyperWork PG-02 Standard",
+  "price": 549000,
+  "quantity": 38,
+  "ratingPoint": 42,
+  "discount": 45,
+  "special": 59,
+  "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "soldQuantity": 14,
+  "image": "pr10.webp",
+  "createdAt": {
+    "$date": "2023-11-09T09:58:25.962Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T09:58:25.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5697"
+  },
+  "productName": "Monitor Arm Humanmotion T2",
+  "price": 1490000,
+  "quantity": 42,
+  "ratingPoint": 26,
+  "discount": 64,
+  "special": 40,
+  "description": "The Football Is Good For Training And Recreational Purposes",
+  "soldQuantity": 21,
+  "image": "pr11.webp",
+  "createdAt": {
+    "$date": "2023-11-10T06:11:44.417Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T06:11:44.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5698"
+  },
+  "productName": "Mechanical Keyboard Logitech G913 TKL",
+  "price": 3490000,
+  "quantity": 96,
+  "ratingPoint": 42,
+  "discount": 5,
+  "special": 27,
+  "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "soldQuantity": 33,
+  "image": "pr12.jpg",
+  "createdAt": {
+    "$date": "2023-11-10T04:54:16.722Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T04:54:16.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556d4939ef3d5acbf8e5699"
+  },
+  "productName": "Gaming Mouse Pulsar X2",
+  "price": 2290000,
+  "quantity": 84,
+  "ratingPoint": 9,
+  "discount": 11,
+  "special": 14,
+  "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "soldQuantity": 36,
+  "image": "pr13.webp",
+  "createdAt": {
+    "$date": "2023-11-09T16:57:53.727Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T09:27:11.688Z"
+  }
+}]
